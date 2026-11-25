@@ -56,4 +56,4 @@ Project-scoped OpenSpec skills are installed for Antigravity. The manuscript was
 | --- | --- |
 | [![修正前的七步演算法](paper/preview/layout-algorithm-before.png)](paper/preview/layout-algorithm-before.png) | [![修正後的七步演算法](paper/preview/layout-algorithm-after.png)](paper/preview/layout-algorithm-after.png) |
 
-修正後仍為 3 頁。Tectonic 最終日誌中的行寬不足警告由 **7 則降為 3 則**，未出現超欄或未解析的引用。上方逐頁預覽對應既有的 Overleaf 編譯版，本節的修正後圖片和 PDF 對應本機排版修訂。
+修正後仍為 3 頁。Tectonic 最終日誌中的行寬不足警告由 **7 則降為 3 則**，未出現超欄或未解析的引用。上方逐頁預覽已更新為同一排版修訂的 Overleaf pdfLaTeX 編譯版。

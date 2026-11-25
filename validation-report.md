@@ -49,3 +49,9 @@ Run date: 2026-11-25 (Taipei).
 - Strict OpenSpec validation passed (8 passed, 0 failed). Local PDF SHA-256: 75c1d232a7586fc57e0f364e6c19037590a111694f0475c56f60d70006fdbc05
 - After approval, performed revision-checked MCP updates to sections/02_related_work.tex, sections/03_methodology.tex, and references.bib. Read-back matched local source for each file.
 - Overleaf pdfLaTeX build 1a21186abd8-95bda07653077111 compiled the [updated three-page PDF](paper/overleaf-main.pdf). The MCP summary reported zero errors, warnings, undefined citations, undefined references, and missing files. The errors-only log was empty. Verified that the PDF includes the comparison, algorithm, and pending results. Remote PDF SHA-256: 17adeff1e3a9f148a86c69bc18794f17bd836f5f97487d92ceb2418b92cd7e6a
+
+## Indentation revision
+
+- Left-aligned the narrow literature-table cells and specified fixed label and body margins for the numbered procedure. The README comparison uses screenshots from the before and after local Tectonic builds. The final local log decreased from seven underfull warnings to three.
+- With user approval, applied revision-checked MCP updates to preamble.tex, sections/02_related_work.tex, and sections/03_methodology.tex. Read-back matched local source for all three.
+- Overleaf pdfLaTeX build 1a2119e1c79-7f8683f1bed6c0b8 produced a three-page PDF. The MCP summary reported zero errors, warnings, undefined citations, or undefined references. The errors-only log was empty. Downloaded and verified the PDF and regenerated all three README page images. PDF SHA-256: 0d8c56fe856c1283e865fcfc90aaaf47bd3f6226e1bac670518db865ef46b085
