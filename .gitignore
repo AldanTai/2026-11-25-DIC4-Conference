@@ -13,3 +13,4 @@ mcp_config.json
 *.fdb_latexmk
 *.synctex.gz
 node_modules/
+/evidence/overleaf-original/

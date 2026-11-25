@@ -4,4 +4,4 @@
 
 ## 2. Validation
 - [x] 2.1 Run official OpenSpec validation and review acceptance scenario.
-- [ ] 2.2 Verify remote Overleaf MCP synchronization.
+- [x] 2.2 Verify remote Overleaf MCP synchronization.
