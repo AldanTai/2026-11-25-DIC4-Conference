@@ -12,3 +12,25 @@ The ten LaTeX section files are loaded from the paper directory. Compile main.te
 Project-scoped OpenSpec skills are installed for Antigravity. The manuscript was synchronized and compiled with Overleaf Web MCP using pdfLaTeX. See the [Overleaf project](https://www.overleaf.com/project/6b06817e135ce430b62b1cf1) and the [downloaded Overleaf PDF](paper/overleaf-main.pdf).
 
 [DIC4 GitHub repository](https://github.com/AldanTai/2026-11-25-DIC4-Conference)
+
+## IEEE 論文逐頁預覽
+
+以下三頁取自 Overleaf 以 pdfLaTeX 編譯的最新版。可以點擊圖片放大，或[下載完整 PDF](paper/overleaf-main.pdf)。
+
+### 第 1 頁｜研究動機、相關研究與方法
+
+摘要與緒論說明家庭食物浪費的背景，以及只根據文字需求產生食譜時可能忽略的庫存、數量與保存資訊。本頁也介紹相關研究，並定義如何依庫存數量判斷食譜是否可行。
+
+[![IEEE 論文第 1 頁：摘要、緒論、相關研究與方法](paper/preview/page-1.png)](paper/preview/page-1.png)
+
+### 第 2 頁｜文獻比較、系統設計與實驗規劃
+
+比較 ReAct、van Rooijen 等人的餐點規劃模型及 MealMind，並呈現 Food Guardian 的七步演算法與系統架構。本頁說明預計如何與不讀取家庭庫存的一般語言模型比較，以及如何評估食譜可行率、庫存匹配率與提醒準確率。
+
+[![IEEE 論文第 2 頁：文獻表、演算法、系統架構與實驗規劃](paper/preview/page-2.png)](paper/preview/page-2.png)
+
+### 第 3 頁｜結果狀態、限制與結論
+
+本頁接續說明提醒準確率的計算方式。結果表中的三項指標均標為 **Pending**。討論與結論說明庫存紀錄、單位換算和保存資訊的限制，以及驗證實際家庭減廢效果所需的長期觀察。頁末列出參考文獻。
+
+[![IEEE 論文第 3 頁：結果、討論、結論與參考文獻](paper/preview/page-3.png)](paper/preview/page-3.png)
