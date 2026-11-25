@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+mcp_config.json
+*.olauth
+*cookie*.json
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+node_modules/

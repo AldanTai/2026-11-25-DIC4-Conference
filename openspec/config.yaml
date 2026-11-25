@@ -1,0 +1,8 @@
+schema: spec-driven
+context: |
+  Food Guardian DIC4 IEEE conference draft.
+  Sources: DIC3 proposal and verified bibliography.
+  Never invent results, authors or implementation claims.
+rules:
+  tasks:
+    - Mark tasks complete only when verified.
