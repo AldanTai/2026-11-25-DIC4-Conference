@@ -1,4 +1,4 @@
-﻿# DIC4 validation report
+# DIC4 validation report
 
 Run date: 2026-11-25 (Taipei).
 
@@ -26,4 +26,4 @@ Run date: 2026-11-25 (Taipei).
 ## GitHub
 
 - The target repository initially returned HTTP 404. GitHub CLI authenticated as AldanTai. Public visibility was approved by the user.
-- Publication verification is recorded in the final handoff once the remote tree has been checked.
+- Published main at initial commit cd87701. The GitHub tree API confirmed all 43 OpenSpec files and eight change specifications. The staged candidate list and text scan found no credential files or common secret patterns. The local MCP configuration and generated TeX logs were excluded.
