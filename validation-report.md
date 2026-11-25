@@ -40,3 +40,12 @@ Run date: 2026-11-25 (Taipei).
 - Local PDF SHA-256: 79f7270d68e99e1d818d6cdca5ff5162367f04bdec58b51622cfb9f4b6b81d99
 - After approval, updated sections/01_introduction.tex with a revision-checked MCP write and verified the saved text by reading it back. Overleaf pdfLaTeX build 1a211801910-8ff4350c4fa48f99 produced a [three-page PDF](paper/overleaf-main.pdf) with zero errors, warnings, undefined citations, or undefined references in the MCP summary. The errors-only log was empty. PDF SHA-256: 6d6e85b10fc53ee90b1d0f810b07edcb415f4daf18346792aff596873ed61eb5
 - Author review and experimental measurements remain open.
+
+## A2Z related work and methodology revision
+
+- Added a comparison of ReAct, the van Rooijen et al. meal-planning model, and the MealMind preprint. The table records each problem, method and domain inputs, evaluation data, findings, and scope.
+- Added a seven-step numbered procedure for stock checks, storage uncertainty, and candidate ranking. This describes the proposed design.
+- Recompiled the three-page local IEEEtran PDF. The comparison and numbered procedure appear in the PDF. No undefined citations, undefined references, or overfull boxes appeared in the final log. Underfull layout warnings remain.
+- Strict OpenSpec validation passed (8 passed, 0 failed). Local PDF SHA-256: 75c1d232a7586fc57e0f364e6c19037590a111694f0475c56f60d70006fdbc05
+- After approval, performed revision-checked MCP updates to sections/02_related_work.tex, sections/03_methodology.tex, and references.bib. Read-back matched local source for each file.
+- Overleaf pdfLaTeX build 1a21186abd8-95bda07653077111 compiled the [updated three-page PDF](paper/overleaf-main.pdf). The MCP summary reported zero errors, warnings, undefined citations, undefined references, and missing files. The errors-only log was empty. Verified that the PDF includes the comparison, algorithm, and pending results. Remote PDF SHA-256: 17adeff1e3a9f148a86c69bc18794f17bd836f5f97487d92ceb2418b92cd7e6a
