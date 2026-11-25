@@ -1,1 +1,3 @@
-Add teacher A2Z outline and any authorized research materials here. Original outline not available for this draft.
+# Reference material
+
+The teacher-provided A2Z outline example was reviewed locally. See the abstract checkpoint map and introduction citation mapping in drafts/.

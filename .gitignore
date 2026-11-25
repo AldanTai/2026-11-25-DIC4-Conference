@@ -14,3 +14,4 @@ mcp_config.json
 *.synctex.gz
 node_modules/
 /evidence/overleaf-original/
+/myRef/A2Z outline example.pdf

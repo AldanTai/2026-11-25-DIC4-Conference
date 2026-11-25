@@ -4,4 +4,4 @@ C. Cure (sentence 3): Food Guardian and its components.
 D. Development (sentence 4): Structured tools, rules, explanations, and uncertainty.
 E. Experiments (sentence 5): Planned household-scenario comparison and three metrics.
 F. Findings (sentence 6): Design and protocol, with empirical results pending.
-Labels verified against the DIC3 course requirements and proposal analysis PDFs. Teacher's original A2Z example PDF remains pending.
+A--F verified against page 1 of the teacher-provided A2Z outline example and the DIC3 proposal requirements. E describes the planned experiment, and F states the current design contribution and pending empirical findings.

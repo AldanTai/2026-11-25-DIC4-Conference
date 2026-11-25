@@ -5,3 +5,4 @@
 - Teacher screenshots: exact section filenames and change names where legible.
 - External references: see paper/references.bib.
 - No source code or experimental dataset inspected.
+- Teacher-provided A2Z outline example, page 1 (2020 A-Z SOP), inspected locally. The source PDF is retained in myRef for local review.
