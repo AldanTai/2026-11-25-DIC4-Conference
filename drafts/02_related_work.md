@@ -10,7 +10,7 @@ Van Rooijen et al.\ formulate weekly meal planning as a mathematical program tha
 \begin{table*}[t]
 \caption{Comparison of prior methods and their evidence.}\label{tab:prior-work}
 \centering\footnotesize
-\begin{tabular}{@{}p{.13\textwidth}p{.14\textwidth}p{.18\textwidth}p{.20\textwidth}p{.24\textwidth}@{}}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{.13\textwidth}>{\raggedright\arraybackslash}p{.14\textwidth}>{\raggedright\arraybackslash}p{.18\textwidth}>{\raggedright\arraybackslash}p{.20\textwidth}>{\raggedright\arraybackslash}p{.24\textwidth}@{}}
 \toprule
 Reference & Problem & Method and domain inputs & Evaluation data & Findings and scope \\
 \midrule

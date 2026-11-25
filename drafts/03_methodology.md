@@ -9,9 +9,17 @@ Algorithm~1 (Fig.~\ref{alg:guardian}) summarizes the proposed decision logic. Ca
 
 \begin{figure}[t]
 \footnotesize
-\begin{enumerate}
-\setlength{\itemsep}{1pt}
-\setlength{\parsep}{0pt}
+\begin{list}{\arabic{enumi}.}{%
+  \usecounter{enumi}%
+  \setlength{\leftmargin}{1.65em}%
+  \setlength{\labelwidth}{1.15em}%
+  \setlength{\labelsep}{0.5em}%
+  \setlength{\itemindent}{0pt}%
+  \setlength{\itemsep}{1pt}%
+  \setlength{\parsep}{0pt}%
+  \setlength{\topsep}{2pt}%
+  \setlength{\partopsep}{0pt}%
+}
 \item Parse the meal request into servings and constraints.
 \item Retrieve the inventory snapshot and candidate recipes.
 \item Scale each recipe to the requested servings.
@@ -19,7 +27,7 @@ Algorithm~1 (Fig.~\ref{alg:guardian}) summarizes the proposed decision logic. Ca
 \item Review label and storage context. Record a reminder or request clarification when evidence is missing.
 \item Mark recipe feasibility from the ingredient checks. Exclude unsupported urgency from the priority score.
 \item Rank candidates and return the stock evidence, missing items, reminders, and uncertainties.
-\end{enumerate}
+\end{list}
 \caption{Algorithm 1. Proposed Food Guardian recommendation procedure.}
 \label{alg:guardian}
 \end{figure}
